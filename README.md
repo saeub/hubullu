@@ -2,6 +2,8 @@
 
 **hubullu** is a simple CLI for looking up words in a foreign language in online dictionaries.
 
+![](https://github.com/saeub/hubullu/workflows/Tests/badge.svg)
+
 ## Features
 
 - Scrape online dictionaries for translations of a given word
